@@ -2,11 +2,7 @@ import "./App.css";
 import Azeem from "./components/Azeem/Azeem";
 
 function App() {
-  return (
-    <>
-      <Azeem />
-    </>
-  );
+  return <Azeem />;
 }
 
 export default App;
